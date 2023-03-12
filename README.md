@@ -1,2 +1,2 @@
 # drawer-nav-app
-![plot](./screenshot1.png) ![plot](./screenshot2.png)
+![Screenshot](./screenshot1.png) ![Screenshot](./screenshot2.png)
